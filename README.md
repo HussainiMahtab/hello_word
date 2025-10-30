@@ -1,2 +1,2 @@
-# hello_word
-blackboard 
+#Hello-world
+Dit is een eerste repository
